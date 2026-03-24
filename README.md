@@ -1,4 +1,4 @@
-# ABHISARSHARMA_0683_IILMGN
+# AI_PROJECT
 ## Summary
 This project focuses on habitat classification using artificial intelligence techniques and visualizing misclassified habitats. The aim is to analyze how AI models classify different habitat types and to understand errors by visually inspecting misclassified samples. This helps improve model accuracy and ecological decision-making.
 
